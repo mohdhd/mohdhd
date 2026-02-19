@@ -1,0 +1,24 @@
+name: Generate GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fez6uj0/github-profile-summary-cards@v0.6.1
+        with:
+          USERNAME: mohdhd
+          BRANCH_NAME: output
+          UTC_OFFSET: 3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

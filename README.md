@@ -133,9 +133,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-mohdhds-projects.vercel.app/api?username=mohdhd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" alt="stats graph" />
-  <img width="12" />
-  <img src="https://github-readme-stats-mohdhds-projects.vercel.app/api/top-langs/?username=mohdhd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/mohdhd/mohdhd/output/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohdhd/mohdhd/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" width="49%" />
+  <img src="https://raw.githubusercontent.com/mohdhd/mohdhd/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohdhd/mohdhd/output/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/mohdhd/mohdhd/output/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" width="49%" />
 </div>
 
 ###
@@ -156,12 +164,33 @@
 
 <div align="center">
   <a href="https://github.com/mohdhd/vibe-architect">
-    <img src="https://github-readme-stats-mohdhds-projects.vercel.app/api/pin/?username=mohdhd&repo=vibe-architect&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="vibe-architect" />
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=mohdhd&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile" width="100%" />
   </a>
-  <img width="12" />
-  <a href="https://github.com/mohdhd/sketchvibe">
-    <img src="https://github-readme-stats-mohdhds-projects.vercel.app/api/pin/?username=mohdhd&repo=sketchvibe&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="sketchvibe" />
-  </a>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏗️ Vibe Architect</h3>
+        <p align="center">
+          <a href="https://github.com/mohdhd/vibe-architect">
+            <img src="https://img.shields.io/badge/View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+        <p align="center">AI-powered project spec generator — go from idea to implementation-ready spec in minutes</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎨 SketchVibe</h3>
+        <p align="center">
+          <a href="https://github.com/mohdhd/sketchvibe">
+            <img src="https://img.shields.io/badge/View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+        <p align="center">Free, open-source AI chat that renders responses as visual blocks — cards, charts, tables & more</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
