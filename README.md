@@ -115,11 +115,11 @@
 ### 🔗 Connect with me
 
 <div align="center">
-  <a href="https://twitter.com/mohdhd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter logo" />
+  <a href="https://x.com/soloforge_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="x logo" />
   </a>
   <img width="8" />
-  <a href="https://youtube.com/@mohdhd" target="_blank">
+  <a href="https://youtube.com/@soloforge_co" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="youtube logo" />
   </a>
   <img width="8" />
