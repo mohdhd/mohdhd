@@ -116,7 +116,7 @@
 
 <div align="center">
   <a href="https://x.com/soloforge_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="x logo" />
+    <img src="https://img.shields.io/static/v1?message=X%20(Twitter)&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="x logo" />
   </a>
   <img width="8" />
   <a href="https://youtube.com/@soloforge_co" target="_blank">
