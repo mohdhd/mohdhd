@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate Profile Summary Cards
-        uses: vn7n24fez6uj0/github-profile-summary-cards@v0.6.1
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: mohdhd
           BRANCH_NAME: output
