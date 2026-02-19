@@ -1,9 +1,9 @@
-name: Generate Snake Animation
+name: Generate Profile Assets
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -22,6 +22,20 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Generate Stats Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: mohdhd
+          BRANCH_NAME: output
+          UTC_OFFSET: 3
+          AUTO_PUSH: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Move stats to dist
+        run: |
+          cp -r profile-summary-card-output dist/ 2>/dev/null || true
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
