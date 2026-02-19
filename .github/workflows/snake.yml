@@ -33,36 +33,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: List generated files
-        run: |
-          echo "=== Workspace root ==="
-          ls -la
-          echo "=== Find all SVG files ==="
-          find . -name "*.svg" -not -path "./dist/*" -not -path "./.git/*" 2>/dev/null || true
-          echo "=== Find profile-summary dirs ==="
-          find . -type d -name "profile-summary-card-output" 2>/dev/null || true
-
       - name: Move stats to dist
         run: |
-          if [ -d "profile-summary-card-output" ]; then
-            cp -r profile-summary-card-output dist/
-            echo "Copied from profile-summary-card-output"
-          elif [ -d "profile-summary-card-output" ]; then
-            cp -r profile-summary-card-output dist/
-          else
-            echo "Looking for SVGs..."
-            find . -name "*.svg" -path "*/tokyonight/*" -not -path "./dist/*" -not -path "./.git/*" 2>/dev/null
-            # Try to find and copy from wherever it is
-            FOUND=$(find . -type d -name "profile-summary-card-output" -not -path "./.git/*" 2>/dev/null | head -1)
-            if [ -n "$FOUND" ]; then
-              cp -r "$FOUND" dist/
-              echo "Copied from $FOUND"
-            else
-              echo "WARNING: No profile-summary-card-output directory found"
-            fi
-          fi
-          echo "=== Final dist contents ==="
-          ls -laR dist/
+          sudo chown -R $USER:$USER dist/
+          cp -r profile-summary-card-output dist/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
