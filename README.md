@@ -133,17 +133,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mohdhd/mohdhd/output/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" width="100%" />
+  <img src="https://raw.githubusercontent.com/mohdhd/mohdhd/stats-output/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mohdhd/mohdhd/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" width="49%" />
-  <img src="https://raw.githubusercontent.com/mohdhd/mohdhd/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" width="49%" />
+  <img src="https://raw.githubusercontent.com/mohdhd/mohdhd/stats-output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" width="49%" />
+  <img src="https://raw.githubusercontent.com/mohdhd/mohdhd/stats-output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mohdhd/mohdhd/output/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" width="49%" />
-  <img src="https://raw.githubusercontent.com/mohdhd/mohdhd/output/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" width="49%" />
+  <img src="https://raw.githubusercontent.com/mohdhd/mohdhd/stats-output/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/mohdhd/mohdhd/stats-output/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" width="49%" />
 </div>
 
 ###
