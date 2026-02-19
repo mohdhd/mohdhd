@@ -142,11 +142,7 @@
   <img src="https://streak-stats.demolab.com?user=mohdhd&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170" alt="streak graph" />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=mohdhd&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophy graph" />
-</div>
 
 ---
 
