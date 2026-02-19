@@ -133,9 +133,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdhd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats-mohdhds-projects.vercel.app/api?username=mohdhd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" alt="stats graph" />
   <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdhd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats-mohdhds-projects.vercel.app/api/top-langs/?username=mohdhd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" alt="languages graph" />
 </div>
 
 ###
@@ -156,11 +156,11 @@
 
 <div align="center">
   <a href="https://github.com/mohdhd/vibe-architect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohdhd&repo=vibe-architect&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="vibe-architect" />
+    <img src="https://github-readme-stats-mohdhds-projects.vercel.app/api/pin/?username=mohdhd&repo=vibe-architect&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="vibe-architect" />
   </a>
   <img width="12" />
   <a href="https://github.com/mohdhd/sketchvibe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohdhd&repo=sketchvibe&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="sketchvibe" />
+    <img src="https://github-readme-stats-mohdhds-projects.vercel.app/api/pin/?username=mohdhd&repo=sketchvibe&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="sketchvibe" />
   </a>
 </div>
 
