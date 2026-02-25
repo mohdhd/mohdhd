@@ -110,8 +110,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
 </div>
 
----
-
+<!--
 ### 🔗 Connect with me
 
 <div align="center">
@@ -129,6 +128,7 @@
 </div>
 
 ---
+-->
 
 ### 📊 GitHub Stats
 
